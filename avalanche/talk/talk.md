@@ -78,7 +78,7 @@ a.k.a. AC vs DC
 
 <img src="battle.jpg" />
 
-<small>*Soure* : http://a.tgcdn.net/images/products/additional/large/</small>
+<small>*Source* : http://a.tgcdn.net/images/products/additional/large/</small>
 
 ---
 
