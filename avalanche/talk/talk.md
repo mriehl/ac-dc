@@ -44,7 +44,7 @@ a.k.a. AC vs DC
 
 ---
 
-# Alternative current
+# Alternating current
 
 * Based on Faraday's theory
 
